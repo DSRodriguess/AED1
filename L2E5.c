@@ -1,6 +1,7 @@
 /*
-Implemente uma função que retorne o valor armazenado no último nó de uma lista
-encadeada de números inteiros. 
+Considere listas de valores inteiros e implemente uma função que dada uma lista
+encadeada e um valor inteiro n, retire da lista todas as ocorrências de n retornando a lista
+resultante. Ao final, o programa deve imprimir a lista resultante. 
 */
 
 #include <stdio.h>
